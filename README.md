@@ -1,2 +1,2 @@
-# google cloud messaging
-firebase push notifications
+# google push notifications
+firebase cloud messaging
