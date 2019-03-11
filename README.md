@@ -1,2 +1,2 @@
-# google.push
+# google cloud messaging
 firebase push notifications
