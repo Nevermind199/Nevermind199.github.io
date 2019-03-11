@@ -1,5 +1,10 @@
 firebase.initializeApp({
-    messagingSenderId: '1050119924041'
+  apiKey: "AIzaSyDuFyIXYUzeoV2SWAAKkIEl4SEHdstA1sU",
+  authDomain: "nevermind-3be60.firebaseapp.com",
+  databaseURL: "https://nevermind-3be60.firebaseio.com",
+  projectId: "nevermind-3be60",
+  storageBucket: "nevermind-3be60.appspot.com",
+  messagingSenderId: "1050119924041"
 });
 
 
@@ -182,7 +187,7 @@ function getToken() {
 
 
 function sendNotification(notification) {
-    var key = 'AAAAaGQ_q2M:APA91bGCEOduj8HM6gP24w2LEnesqM2zkL_qx2PJUSBjjeGSdJhCrDoJf_WbT7wpQZrynHlESAoZ1VHX9Nro6W_tqpJ3Aw-A292SVe_4Ho7tJQCQxSezDCoJsnqXjoaouMYIwr34vZTs';
+    var key = 'AAAA9IAGaUk:APA91bHijJZAJhbQ-HlnaRA_0Iz9oEINT6U8tBHYeG01-KNeFB-AcTu31AOai3Tvnk7h2MFo18r0FxYhXZk1SlEFhHjMNZlo73rU1KfcRrWMRSl42msnZBXF-_Ntn4wDQka6ZX4OqBAA';
 
     console.log('Send notification', notification);
 
